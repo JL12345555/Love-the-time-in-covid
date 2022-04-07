@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "The population of the German city of Falkensee over time",
+  "width": 500,
+  "data": {
+      "url":"COVID-data.csv"}
+    "format": {
+      "parse": {"year": "date:'%Y'"}
+    }
+  },
+  "layer": [
+    {
+      "mark": "rect",
+      "data": {
+        "values": [
+          {
+            "start": "2020-12-20",
+            "end": "2021-03-01",
+            "event": "Lockdown"
+          },
+          {
+            "start": "2020-07-07",
+            "end": "2021-12-30",
+            "event": "Mandate"
+          }
+          {
+            "start": "2020-12-04",
+            "end": "2021-12-30",
+            "event": "Vaccines"
+          }
+        ],
+        "format": {
+          "parse": {"start": "date:'%Y'", "end": "date:'%Y'"}
+        }
+      },
+      "encoding": {
+        "x": {
+          "field": "start",
+          "timeUnit": "date"
+        },
+        "x2": {
+          "field": "end",
+          "timeUnit": "date"
+        },
+        "color": {"field": "event", "type": "nominal"}
+      }
+    },
+    {
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "date",
+          "timeUnit": "date",
+          "title": "year (year)"
+        },
+        "y": {"field": "population", "type": "quantitative"},
+        "color": {"value": "#333"}
+      }
+    }
+  ]
+}

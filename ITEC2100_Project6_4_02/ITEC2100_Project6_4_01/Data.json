@@ -1,0 +1,4114 @@
+{
+  "Sheet1": [
+    {
+      "Date": 43870.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43871.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43872.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43873.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43874.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43875.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43876.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43877.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43878.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43879.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43880.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43881.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43882.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43883.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43884.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43885.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43886.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43887.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43888.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43889.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43890.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43891.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43892.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43893.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43894.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43895.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43896.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43897.791666666664,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43898.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43899.833333333336,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43900.833333333336,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43901.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43902.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43903.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43904.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43905.833333333336,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43906.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43907.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43908.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43909.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43910.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43911.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 43912.833333333336,
+      "Daily Cases by Reported Date": 9,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 43913.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 43914.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 43915.833333333336,
+      "Daily Cases by Reported Date": 19,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 43916.833333333336,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 43917.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 43918.833333333336,
+      "Daily Cases by Reported Date": 11,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 43919.833333333336,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 43920.833333333336,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43921.833333333336,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 43922.833333333336,
+      "Daily Cases by Reported Date": 32,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 43923.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 43924.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 43925.833333333336,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43926.833333333336,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 43927.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 43928.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 43929.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 43930.833333333336,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 43931.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 19
+    },
+    {
+      "Date": 43932.833333333336,
+      "Daily Cases by Reported Date": 35,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 18
+    },
+    {
+      "Date": 43933.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 20
+    },
+    {
+      "Date": 43934.833333333336,
+      "Daily Cases by Reported Date": 32,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 20
+    },
+    {
+      "Date": 43935.833333333336,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 43936.833333333336,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43937.833333333336,
+      "Daily Cases by Reported Date": 73,
+      "Cases Currently in Hospital": 49,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43938.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 46,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43939.833333333336,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 43940.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43941.833333333336,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43942.833333333336,
+      "Daily Cases by Reported Date": 35,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 43943.833333333336,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43944.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 43945.833333333336,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 49,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 43946.833333333336,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 43947.833333333336,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 54,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43948.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 60,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43949.833333333336,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 61,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 43950.833333333336,
+      "Daily Cases by Reported Date": 30,
+      "Cases Currently in Hospital": 55,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43951.833333333336,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 57,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 43952.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 57,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 43953.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 43954.833333333336,
+      "Daily Cases by Reported Date": 14,
+      "Cases Currently in Hospital": 51,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 43955.833333333336,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 49,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 43956.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 43957.833333333336,
+      "Daily Cases by Reported Date": 32,
+      "Cases Currently in Hospital": 54,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 43958.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 54,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 43959.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 51,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 43960.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 43961.833333333336,
+      "Daily Cases by Reported Date": 14,
+      "Cases Currently in Hospital": 51,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 43962.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 43963.833333333336,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 43964.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 43965.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 43966.833333333336,
+      "Daily Cases by Reported Date": 19,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 43967.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 43968.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 42,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43969.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43970.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 40,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43971.833333333336,
+      "Daily Cases by Reported Date": 11,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43972.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43973.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43974.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43975.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43976.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43977.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43978.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43979.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43980.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43981.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43982.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43983.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 28,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43984.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43985.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43986.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43987.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43988.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43989.833333333336,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43990.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43991.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43992.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43993.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43994.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43995.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43996.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43997.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 43998.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 43999.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44000.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44001.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44002.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44003.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44004.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44005.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44006.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44007.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44008.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44009.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44010.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44011.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44012.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44013.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44014.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44015.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44016.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44017.833333333336,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44018.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44019.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44020.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44021.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44022.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44023.833333333336,
+      "Daily Cases by Reported Date": 9,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44024.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44025.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44026.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44027.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44028.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44029.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44030.833333333336,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44031.833333333336,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44032.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44033.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44034.833333333336,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44035.833333333336,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44036.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44037.833333333336,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44038.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44039.833333333336,
+      "Daily Cases by Reported Date": 14,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44040.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44041.833333333336,
+      "Daily Cases by Reported Date": 19,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44042.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44043.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44044.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44045.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44046.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44047.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44048.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44049.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44050.833333333336,
+      "Daily Cases by Reported Date": 14,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44051.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44052.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44053.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44054.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44055.833333333336,
+      "Daily Cases by Reported Date": 11,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44056.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44057.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44058.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44059.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44060.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44061.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44062.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44063.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44064.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44065.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44066.833333333336,
+      "Daily Cases by Reported Date": 19,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44067.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44068.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44069.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44070.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44071.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44072.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44073.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44074.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44075.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44076.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44077.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44078.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44079.833333333336,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44080.833333333336,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44081.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44082.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44083.833333333336,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44084.833333333336,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44085.833333333336,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44086.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44087.833333333336,
+      "Daily Cases by Reported Date": 59,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44088.833333333336,
+      "Daily Cases by Reported Date": 41,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44089.833333333336,
+      "Daily Cases by Reported Date": 41,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44090.833333333336,
+      "Daily Cases by Reported Date": 57,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44091.833333333336,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44092.833333333336,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44093.833333333336,
+      "Daily Cases by Reported Date": 76,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44094.833333333336,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44095.833333333336,
+      "Daily Cases by Reported Date": 85,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44096.833333333336,
+      "Daily Cases by Reported Date": 67,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44097.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44098.833333333336,
+      "Daily Cases by Reported Date": 57,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44099.833333333336,
+      "Daily Cases by Reported Date": 76,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44100.833333333336,
+      "Daily Cases by Reported Date": 109,
+      "Cases Currently in Hospital": 22,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44101.833333333336,
+      "Daily Cases by Reported Date": 86,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44102.833333333336,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44103.833333333336,
+      "Daily Cases by Reported Date": 108,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44104.833333333336,
+      "Daily Cases by Reported Date": 105,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44105.833333333336,
+      "Daily Cases by Reported Date": 115,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44106.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44107.833333333336,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44108.833333333336,
+      "Daily Cases by Reported Date": 82,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44109.833333333336,
+      "Daily Cases by Reported Date": 139,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44110.833333333336,
+      "Daily Cases by Reported Date": 174,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44111.833333333336,
+      "Daily Cases by Reported Date": 85,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44112.833333333336,
+      "Daily Cases by Reported Date": 96,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44113.833333333336,
+      "Daily Cases by Reported Date": 68,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44114.833333333336,
+      "Daily Cases by Reported Date": 138,
+      "Cases Currently in Hospital": 46,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44115.833333333336,
+      "Daily Cases by Reported Date": 62,
+      "Cases Currently in Hospital": 46,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44116.833333333336,
+      "Daily Cases by Reported Date": 74,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44117.833333333336,
+      "Daily Cases by Reported Date": 84,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44118.833333333336,
+      "Daily Cases by Reported Date": 107,
+      "Cases Currently in Hospital": 49,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44119.833333333336,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44120.833333333336,
+      "Daily Cases by Reported Date": 64,
+      "Cases Currently in Hospital": 50,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44121.833333333336,
+      "Daily Cases by Reported Date": 74,
+      "Cases Currently in Hospital": 49,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44122.833333333336,
+      "Daily Cases by Reported Date": 69,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44123.833333333336,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 46,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44124.833333333336,
+      "Daily Cases by Reported Date": 69,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44125.833333333336,
+      "Daily Cases by Reported Date": 88,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44126.833333333336,
+      "Daily Cases by Reported Date": 92,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44127.833333333336,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44128.833333333336,
+      "Daily Cases by Reported Date": 69,
+      "Cases Currently in Hospital": 38,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44129.833333333336,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44130.833333333336,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44131.833333333336,
+      "Daily Cases by Reported Date": 93,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44132.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 38,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44133.833333333336,
+      "Daily Cases by Reported Date": 122,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44134.833333333336,
+      "Daily Cases by Reported Date": 83,
+      "Cases Currently in Hospital": 40,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44135.833333333336,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 38,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44136.791666666664,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44137.791666666664,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44138.791666666664,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44139.791666666664,
+      "Daily Cases by Reported Date": 45,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44140.791666666664,
+      "Daily Cases by Reported Date": 79,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44141.791666666664,
+      "Daily Cases by Reported Date": 75,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44142.791666666664,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44143.791666666664,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44144.791666666664,
+      "Daily Cases by Reported Date": 52,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44145.791666666664,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44146.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44147.791666666664,
+      "Daily Cases by Reported Date": 79,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44148.791666666664,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44149.791666666664,
+      "Daily Cases by Reported Date": 30,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44150.791666666664,
+      "Daily Cases by Reported Date": 11,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44151.791666666664,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44152.791666666664,
+      "Daily Cases by Reported Date": 66,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44153.791666666664,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44154.791666666664,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44155.791666666664,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44156.791666666664,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44157.791666666664,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44158.791666666664,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44159.791666666664,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44160.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44161.791666666664,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44162.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44163.791666666664,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 28,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44164.791666666664,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44165.791666666664,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44166.791666666664,
+      "Daily Cases by Reported Date": 49,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44167.791666666664,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44168.791666666664,
+      "Daily Cases by Reported Date": 55,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44169.791666666664,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44170.791666666664,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44171.791666666664,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44172.791666666664,
+      "Daily Cases by Reported Date": 57,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44173.791666666664,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44174.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44175.791666666664,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44176.791666666664,
+      "Daily Cases by Reported Date": 59,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44177.791666666664,
+      "Daily Cases by Reported Date": 30,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44178.791666666664,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44179.791666666664,
+      "Daily Cases by Reported Date": 54,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44180.791666666664,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44181.791666666664,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44182.791666666664,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44183.791666666664,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44184.791666666664,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44185.791666666664,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44186.791666666664,
+      "Daily Cases by Reported Date": 73,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44187.791666666664,
+      "Daily Cases by Reported Date": 52,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44188.791666666664,
+      "Daily Cases by Reported Date": 49,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44189.791666666664,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44190.791666666664,
+      "Daily Cases by Reported Date": 95,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44191.791666666664,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44192.791666666664,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44193.791666666664,
+      "Daily Cases by Reported Date": 112,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44194.791666666664,
+      "Daily Cases by Reported Date": 88,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44195.791666666664,
+      "Daily Cases by Reported Date": 147,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44196.791666666664,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44197.791666666664,
+      "Daily Cases by Reported Date": 134,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44198.791666666664,
+      "Daily Cases by Reported Date": 106,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44199.791666666664,
+      "Daily Cases by Reported Date": 117,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44200.791666666664,
+      "Daily Cases by Reported Date": 105,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44201.791666666664,
+      "Daily Cases by Reported Date": 132,
+      "Cases Currently in Hospital": 28,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44202.791666666664,
+      "Daily Cases by Reported Date": 186,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44203.791666666664,
+      "Daily Cases by Reported Date": 185,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44204.791666666664,
+      "Daily Cases by Reported Date": 155,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44205.791666666664,
+      "Daily Cases by Reported Date": 114,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44206.791666666664,
+      "Daily Cases by Reported Date": 66,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 44207.791666666664,
+      "Daily Cases by Reported Date": 161,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 44208.791666666664,
+      "Daily Cases by Reported Date": 172,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44209.791666666664,
+      "Daily Cases by Reported Date": 128,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44210.791666666664,
+      "Daily Cases by Reported Date": 145,
+      "Cases Currently in Hospital": 41,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44211.791666666664,
+      "Daily Cases by Reported Date": 119,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44212.791666666664,
+      "Daily Cases by Reported Date": 72,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44213.791666666664,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 43,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44214.791666666664,
+      "Daily Cases by Reported Date": 81,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44215.791666666664,
+      "Daily Cases by Reported Date": 166,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44216.791666666664,
+      "Daily Cases by Reported Date": 81,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44217.791666666664,
+      "Daily Cases by Reported Date": 95,
+      "Cases Currently in Hospital": 37,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44218.791666666664,
+      "Daily Cases by Reported Date": 84,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44219.791666666664,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 38,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44220.791666666664,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44221.791666666664,
+      "Daily Cases by Reported Date": 74,
+      "Cases Currently in Hospital": 40,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44222.791666666664,
+      "Daily Cases by Reported Date": 80,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44223.791666666664,
+      "Daily Cases by Reported Date": 66,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44224.791666666664,
+      "Daily Cases by Reported Date": 73,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44225.791666666664,
+      "Daily Cases by Reported Date": 42,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44226.791666666664,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44227.791666666664,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44228.791666666664,
+      "Daily Cases by Reported Date": 59,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44229.791666666664,
+      "Daily Cases by Reported Date": 54,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44230.791666666664,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44231.791666666664,
+      "Daily Cases by Reported Date": 72,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44232.791666666664,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44233.791666666664,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44234.791666666664,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44235.791666666664,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44236.791666666664,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44237.791666666664,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44238.791666666664,
+      "Daily Cases by Reported Date": 52,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44239.791666666664,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44240.791666666664,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44241.791666666664,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44242.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44243.791666666664,
+      "Daily Cases by Reported Date": 49,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44244.791666666664,
+      "Daily Cases by Reported Date": 68,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44245.791666666664,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44246.791666666664,
+      "Daily Cases by Reported Date": 66,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44247.791666666664,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44248.791666666664,
+      "Daily Cases by Reported Date": 32,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44249.791666666664,
+      "Daily Cases by Reported Date": 47,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44250.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44251.791666666664,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44252.791666666664,
+      "Daily Cases by Reported Date": 57,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44253.791666666664,
+      "Daily Cases by Reported Date": 71,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44254.791666666664,
+      "Daily Cases by Reported Date": 49,
+      "Cases Currently in Hospital": 28,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44255.791666666664,
+      "Daily Cases by Reported Date": 54,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44256.791666666664,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44257.791666666664,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44258.791666666664,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44259.791666666664,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 28,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44260.791666666664,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44261.791666666664,
+      "Daily Cases by Reported Date": 54,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44262.791666666664,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44263.791666666664,
+      "Daily Cases by Reported Date": 70,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44264.791666666664,
+      "Daily Cases by Reported Date": 76,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44265.791666666664,
+      "Daily Cases by Reported Date": 73,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44266.791666666664,
+      "Daily Cases by Reported Date": 93,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44267.791666666664,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 22,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44268.791666666664,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44269.833333333336,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44270.833333333336,
+      "Daily Cases by Reported Date": 85,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44271.833333333336,
+      "Daily Cases by Reported Date": 78,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44272.833333333336,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44273.833333333336,
+      "Daily Cases by Reported Date": 117,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44274.833333333336,
+      "Daily Cases by Reported Date": 83,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44275.833333333336,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44276.833333333336,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44277.833333333336,
+      "Daily Cases by Reported Date": 108,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44278.833333333336,
+      "Daily Cases by Reported Date": 85,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44279.833333333336,
+      "Daily Cases by Reported Date": 123,
+      "Cases Currently in Hospital": 40,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44280.833333333336,
+      "Daily Cases by Reported Date": 103,
+      "Cases Currently in Hospital": 42,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44281.833333333336,
+      "Daily Cases by Reported Date": 138,
+      "Cases Currently in Hospital": 44,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 44282.833333333336,
+      "Daily Cases by Reported Date": 139,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 44283.833333333336,
+      "Daily Cases by Reported Date": 111,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 44284.833333333336,
+      "Daily Cases by Reported Date": 170,
+      "Cases Currently in Hospital": 48,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 44285.833333333336,
+      "Daily Cases by Reported Date": 163,
+      "Cases Currently in Hospital": 54,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 44286.833333333336,
+      "Daily Cases by Reported Date": 144,
+      "Cases Currently in Hospital": 52,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 44287.833333333336,
+      "Daily Cases by Reported Date": 242,
+      "Cases Currently in Hospital": 56,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 44288.833333333336,
+      "Daily Cases by Reported Date": 223,
+      "Cases Currently in Hospital": 61,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 44289.833333333336,
+      "Daily Cases by Reported Date": 152,
+      "Cases Currently in Hospital": 64,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 44290.833333333336,
+      "Daily Cases by Reported Date": 184,
+      "Cases Currently in Hospital": 67,
+      "Cases Currently in ICU": 18
+    },
+    {
+      "Date": 44291.833333333336,
+      "Daily Cases by Reported Date": 156,
+      "Cases Currently in Hospital": 70,
+      "Cases Currently in ICU": 20
+    },
+    {
+      "Date": 44292.833333333336,
+      "Daily Cases by Reported Date": 219,
+      "Cases Currently in Hospital": 76,
+      "Cases Currently in ICU": 24
+    },
+    {
+      "Date": 44293.833333333336,
+      "Daily Cases by Reported Date": 170,
+      "Cases Currently in Hospital": 83,
+      "Cases Currently in ICU": 30
+    },
+    {
+      "Date": 44294.833333333336,
+      "Daily Cases by Reported Date": 261,
+      "Cases Currently in Hospital": 88,
+      "Cases Currently in ICU": 31
+    },
+    {
+      "Date": 44295.833333333336,
+      "Daily Cases by Reported Date": 381,
+      "Cases Currently in Hospital": 92,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44296.833333333336,
+      "Daily Cases by Reported Date": 205,
+      "Cases Currently in Hospital": 100,
+      "Cases Currently in ICU": 29
+    },
+    {
+      "Date": 44297.833333333336,
+      "Daily Cases by Reported Date": 265,
+      "Cases Currently in Hospital": 101,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44298.833333333336,
+      "Daily Cases by Reported Date": 245,
+      "Cases Currently in Hospital": 105,
+      "Cases Currently in ICU": 28
+    },
+    {
+      "Date": 44299.833333333336,
+      "Daily Cases by Reported Date": 389,
+      "Cases Currently in Hospital": 101,
+      "Cases Currently in ICU": 28
+    },
+    {
+      "Date": 44300.833333333336,
+      "Daily Cases by Reported Date": 312,
+      "Cases Currently in Hospital": 107,
+      "Cases Currently in ICU": 29
+    },
+    {
+      "Date": 44301.833333333336,
+      "Daily Cases by Reported Date": 348,
+      "Cases Currently in Hospital": 114,
+      "Cases Currently in ICU": 24
+    },
+    {
+      "Date": 44302.833333333336,
+      "Daily Cases by Reported Date": 405,
+      "Cases Currently in Hospital": 123,
+      "Cases Currently in ICU": 23
+    },
+    {
+      "Date": 44303.833333333336,
+      "Daily Cases by Reported Date": 294,
+      "Cases Currently in Hospital": 122,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44304.833333333336,
+      "Daily Cases by Reported Date": 258,
+      "Cases Currently in Hospital": 116,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44305.833333333336,
+      "Daily Cases by Reported Date": 188,
+      "Cases Currently in Hospital": 119,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44306.833333333336,
+      "Daily Cases by Reported Date": 207,
+      "Cases Currently in Hospital": 111,
+      "Cases Currently in ICU": 25
+    },
+    {
+      "Date": 44307.833333333336,
+      "Daily Cases by Reported Date": 239,
+      "Cases Currently in Hospital": 107,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44308.833333333336,
+      "Daily Cases by Reported Date": 189,
+      "Cases Currently in Hospital": 113,
+      "Cases Currently in ICU": 29
+    },
+    {
+      "Date": 44309.833333333336,
+      "Daily Cases by Reported Date": 227,
+      "Cases Currently in Hospital": 119,
+      "Cases Currently in ICU": 31
+    },
+    {
+      "Date": 44310.833333333336,
+      "Daily Cases by Reported Date": 139,
+      "Cases Currently in Hospital": 125,
+      "Cases Currently in ICU": 30
+    },
+    {
+      "Date": 44311.833333333336,
+      "Daily Cases by Reported Date": 173,
+      "Cases Currently in Hospital": 124,
+      "Cases Currently in ICU": 31
+    },
+    {
+      "Date": 44312.833333333336,
+      "Daily Cases by Reported Date": 189,
+      "Cases Currently in Hospital": 121,
+      "Cases Currently in ICU": 31
+    },
+    {
+      "Date": 44313.833333333336,
+      "Daily Cases by Reported Date": 186,
+      "Cases Currently in Hospital": 116,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44314.833333333336,
+      "Daily Cases by Reported Date": 159,
+      "Cases Currently in Hospital": 113,
+      "Cases Currently in ICU": 29
+    },
+    {
+      "Date": 44315.833333333336,
+      "Daily Cases by Reported Date": 178,
+      "Cases Currently in Hospital": 109,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44316.833333333336,
+      "Daily Cases by Reported Date": 138,
+      "Cases Currently in Hospital": 110,
+      "Cases Currently in ICU": 29
+    },
+    {
+      "Date": 44317.833333333336,
+      "Daily Cases by Reported Date": 128,
+      "Cases Currently in Hospital": 108,
+      "Cases Currently in ICU": 27
+    },
+    {
+      "Date": 44318.833333333336,
+      "Daily Cases by Reported Date": 102,
+      "Cases Currently in Hospital": 98,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44319.833333333336,
+      "Daily Cases by Reported Date": 141,
+      "Cases Currently in Hospital": 94,
+      "Cases Currently in ICU": 23
+    },
+    {
+      "Date": 44320.833333333336,
+      "Daily Cases by Reported Date": 114,
+      "Cases Currently in Hospital": 88,
+      "Cases Currently in ICU": 23
+    },
+    {
+      "Date": 44321.833333333336,
+      "Daily Cases by Reported Date": 122,
+      "Cases Currently in Hospital": 88,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44322.833333333336,
+      "Daily Cases by Reported Date": 108,
+      "Cases Currently in Hospital": 95,
+      "Cases Currently in ICU": 23
+    },
+    {
+      "Date": 44323.833333333336,
+      "Daily Cases by Reported Date": 136,
+      "Cases Currently in Hospital": 86,
+      "Cases Currently in ICU": 21
+    },
+    {
+      "Date": 44324.833333333336,
+      "Daily Cases by Reported Date": 69,
+      "Cases Currently in Hospital": 83,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44325.833333333336,
+      "Daily Cases by Reported Date": 82,
+      "Cases Currently in Hospital": 85,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44326.833333333336,
+      "Daily Cases by Reported Date": 124,
+      "Cases Currently in Hospital": 79,
+      "Cases Currently in ICU": 21
+    },
+    {
+      "Date": 44327.833333333336,
+      "Daily Cases by Reported Date": 115,
+      "Cases Currently in Hospital": 80,
+      "Cases Currently in ICU": 22
+    },
+    {
+      "Date": 44328.833333333336,
+      "Daily Cases by Reported Date": 78,
+      "Cases Currently in Hospital": 77,
+      "Cases Currently in ICU": 20
+    },
+    {
+      "Date": 44329.833333333336,
+      "Daily Cases by Reported Date": 128,
+      "Cases Currently in Hospital": 70,
+      "Cases Currently in ICU": 21
+    },
+    {
+      "Date": 44330.833333333336,
+      "Daily Cases by Reported Date": 85,
+      "Cases Currently in Hospital": 64,
+      "Cases Currently in ICU": 19
+    },
+    {
+      "Date": 44331.833333333336,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 67,
+      "Cases Currently in ICU": 19
+    },
+    {
+      "Date": 44332.833333333336,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 71,
+      "Cases Currently in ICU": 19
+    },
+    {
+      "Date": 44333.833333333336,
+      "Daily Cases by Reported Date": 97,
+      "Cases Currently in Hospital": 64,
+      "Cases Currently in ICU": 16
+    },
+    {
+      "Date": 44334.833333333336,
+      "Daily Cases by Reported Date": 91,
+      "Cases Currently in Hospital": 57,
+      "Cases Currently in ICU": 14
+    },
+    {
+      "Date": 44335.833333333336,
+      "Daily Cases by Reported Date": 73,
+      "Cases Currently in Hospital": 63,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 44336.833333333336,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 59,
+      "Cases Currently in ICU": 13
+    },
+    {
+      "Date": 44337.833333333336,
+      "Daily Cases by Reported Date": 77,
+      "Cases Currently in Hospital": 58,
+      "Cases Currently in ICU": 15
+    },
+    {
+      "Date": 44338.833333333336,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 59,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 44339.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 57,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44340.833333333336,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 54,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44341.833333333336,
+      "Daily Cases by Reported Date": 76,
+      "Cases Currently in Hospital": 47,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44342.833333333336,
+      "Daily Cases by Reported Date": 62,
+      "Cases Currently in Hospital": 42,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44343.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 34,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44344.833333333336,
+      "Daily Cases by Reported Date": 45,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44345.833333333336,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 36,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44346.833333333336,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44347.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44348.833333333336,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44349.833333333336,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44350.833333333336,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44351.833333333336,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 30,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44352.833333333336,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44353.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44354.833333333336,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 26,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44355.833333333336,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44356.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44357.833333333336,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44358.833333333336,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44359.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44360.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44361.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44362.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44363.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44364.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44365.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44366.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44367.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44368.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44369.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44370.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44371.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44372.833333333336,
+      "Daily Cases by Reported Date": 9,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44373.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44374.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44375.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44376.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44377.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44378.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44379.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44380.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44381.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44382.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44383.833333333336,
+      "Daily Cases by Reported Date": 6,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44384.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44385.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44386.833333333336,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44387.833333333336,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44388.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44389.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44390.833333333336,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44391.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44392.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44393.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44394.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44395.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44396.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44397.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44398.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44399.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44400.833333333336,
+      "Daily Cases by Reported Date": 2,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44401.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44402.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44403.833333333336,
+      "Daily Cases by Reported Date": 7,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44404.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44405.833333333336,
+      "Daily Cases by Reported Date": 9,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44406.833333333336,
+      "Daily Cases by Reported Date": 4,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44407.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44408.833333333336,
+      "Daily Cases by Reported Date": 1,
+      "Cases Currently in Hospital": 1,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44409.833333333336,
+      "Daily Cases by Reported Date": 3,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44410.833333333336,
+      "Daily Cases by Reported Date": 10,
+      "Cases Currently in Hospital": 2,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44411.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44412.833333333336,
+      "Daily Cases by Reported Date": 9,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44413.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44414.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44415.833333333336,
+      "Daily Cases by Reported Date": 5,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44416.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44417.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44418.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44419.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44420.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44421.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44422.833333333336,
+      "Daily Cases by Reported Date": 8,
+      "Cases Currently in Hospital": 5,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44423.833333333336,
+      "Daily Cases by Reported Date": 21,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44424.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44425.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 3,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44426.833333333336,
+      "Daily Cases by Reported Date": 19,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44427.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44428.833333333336,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44429.833333333336,
+      "Daily Cases by Reported Date": 17,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44430.833333333336,
+      "Daily Cases by Reported Date": 16,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44431.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 4,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44432.833333333336,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44433.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44434.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44435.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44436.833333333336,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44437.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44438.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44439.833333333336,
+      "Daily Cases by Reported Date": 55,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44440.833333333336,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44441.833333333336,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44442.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44443.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44444.833333333336,
+      "Daily Cases by Reported Date": 29,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44445.833333333336,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44446.833333333336,
+      "Daily Cases by Reported Date": 66,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44447.833333333336,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44448.833333333336,
+      "Daily Cases by Reported Date": 62,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44449.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44450.833333333336,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44451.833333333336,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44452.833333333336,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44453.833333333336,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 6
+    },
+    {
+      "Date": 44454.833333333336,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44455.833333333336,
+      "Daily Cases by Reported Date": 90,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44456.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44457.833333333336,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44458.833333333336,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44459.833333333336,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44460.833333333336,
+      "Daily Cases by Reported Date": 63,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44461.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44462.833333333336,
+      "Daily Cases by Reported Date": 56,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 8
+    },
+    {
+      "Date": 44463.833333333336,
+      "Daily Cases by Reported Date": 62,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 10
+    },
+    {
+      "Date": 44464.833333333336,
+      "Daily Cases by Reported Date": 38,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44465.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44466.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44467.833333333336,
+      "Daily Cases by Reported Date": 65,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44468.833333333336,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 21,
+      "Cases Currently in ICU": 12
+    },
+    {
+      "Date": 44469.833333333336,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 11
+    },
+    {
+      "Date": 44470.833333333336,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 9
+    },
+    {
+      "Date": 44471.833333333336,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 7
+    },
+    {
+      "Date": 44472.833333333336,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44473.833333333336,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44474.833333333336,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44475.833333333336,
+      "Daily Cases by Reported Date": 53,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44476.833333333336,
+      "Daily Cases by Reported Date": 58,
+      "Cases Currently in Hospital": 6,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44477.833333333336,
+      "Daily Cases by Reported Date": 37,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44478.833333333336,
+      "Daily Cases by Reported Date": 20,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44479.833333333336,
+      "Daily Cases by Reported Date": 18,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44480.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44481.833333333336,
+      "Daily Cases by Reported Date": 24,
+      "Cases Currently in Hospital": 8,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44482.833333333336,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44483.833333333336,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44484.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44485.833333333336,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44486.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44487.833333333336,
+      "Daily Cases by Reported Date": 23,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44488.833333333336,
+      "Daily Cases by Reported Date": 35,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44489.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44490.833333333336,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44491.833333333336,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44492.833333333336,
+      "Daily Cases by Reported Date": 14,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44493.833333333336,
+      "Daily Cases by Reported Date": 15,
+      "Cases Currently in Hospital": 7,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44494.833333333336,
+      "Daily Cases by Reported Date": 30,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44495.833333333336,
+      "Daily Cases by Reported Date": 35,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44496.833333333336,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44497.833333333336,
+      "Daily Cases by Reported Date": 12,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44498.833333333336,
+      "Daily Cases by Reported Date": 28,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44499.833333333336,
+      "Daily Cases by Reported Date": 32,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44500.833333333336,
+      "Daily Cases by Reported Date": 13,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44501.833333333336,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44502.833333333336,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44503.833333333336,
+      "Daily Cases by Reported Date": 33,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44504.833333333336,
+      "Daily Cases by Reported Date": 45,
+      "Cases Currently in Hospital": 19,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44505.833333333336,
+      "Daily Cases by Reported Date": 40,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44506.833333333336,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 24,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44507.791666666664,
+      "Daily Cases by Reported Date": 36,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44508.791666666664,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44509.791666666664,
+      "Daily Cases by Reported Date": 34,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44510.791666666664,
+      "Daily Cases by Reported Date": 48,
+      "Cases Currently in Hospital": 32,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44511.791666666664,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 33,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44512.791666666664,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 31,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44513.791666666664,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 27,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44514.791666666664,
+      "Daily Cases by Reported Date": 41,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44515.791666666664,
+      "Daily Cases by Reported Date": 42,
+      "Cases Currently in Hospital": 23,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44516.791666666664,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 22,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44517.791666666664,
+      "Daily Cases by Reported Date": 39,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 3
+    },
+    {
+      "Date": 44518.791666666664,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44519.791666666664,
+      "Daily Cases by Reported Date": 50,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44520.791666666664,
+      "Daily Cases by Reported Date": 25,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44521.791666666664,
+      "Daily Cases by Reported Date": 31,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44522.791666666664,
+      "Daily Cases by Reported Date": 27,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44523.791666666664,
+      "Daily Cases by Reported Date": 46,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44524.791666666664,
+      "Daily Cases by Reported Date": 60,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44525.791666666664,
+      "Daily Cases by Reported Date": 51,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44526.791666666664,
+      "Daily Cases by Reported Date": 43,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44527.791666666664,
+      "Daily Cases by Reported Date": 22,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44528.791666666664,
+      "Daily Cases by Reported Date": 26,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44529.791666666664,
+      "Daily Cases by Reported Date": 61,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44530.791666666664,
+      "Daily Cases by Reported Date": 62,
+      "Cases Currently in Hospital": 16,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44531.791666666664,
+      "Daily Cases by Reported Date": 64,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44532.791666666664,
+      "Daily Cases by Reported Date": 59,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44533.791666666664,
+      "Daily Cases by Reported Date": 70,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44534.791666666664,
+      "Daily Cases by Reported Date": 35,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44535.791666666664,
+      "Daily Cases by Reported Date": 69,
+      "Cases Currently in Hospital": 9,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44536.791666666664,
+      "Daily Cases by Reported Date": 70,
+      "Cases Currently in Hospital": 10,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44537.791666666664,
+      "Daily Cases by Reported Date": 44,
+      "Cases Currently in Hospital": 11,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44538.791666666664,
+      "Daily Cases by Reported Date": 147,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44539.791666666664,
+      "Daily Cases by Reported Date": 87,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44540.791666666664,
+      "Daily Cases by Reported Date": 150,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44541.791666666664,
+      "Daily Cases by Reported Date": 106,
+      "Cases Currently in Hospital": 13,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44542.791666666664,
+      "Daily Cases by Reported Date": 100,
+      "Cases Currently in Hospital": 14,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44543.791666666664,
+      "Daily Cases by Reported Date": 199,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44544.791666666664,
+      "Daily Cases by Reported Date": 252,
+      "Cases Currently in Hospital": 12,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44545.791666666664,
+      "Daily Cases by Reported Date": 308,
+      "Cases Currently in Hospital": 15,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44546.791666666664,
+      "Daily Cases by Reported Date": 355,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44547.791666666664,
+      "Daily Cases by Reported Date": 308,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44548.791666666664,
+      "Daily Cases by Reported Date": 402,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44549.791666666664,
+      "Daily Cases by Reported Date": 387,
+      "Cases Currently in Hospital": 17,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44550.791666666664,
+      "Daily Cases by Reported Date": 487,
+      "Cases Currently in Hospital": 18,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44551.791666666664,
+      "Daily Cases by Reported Date": 670,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 0
+    },
+    {
+      "Date": 44552.791666666664,
+      "Daily Cases by Reported Date": 736,
+      "Cases Currently in Hospital": 20,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44553.791666666664,
+      "Daily Cases by Reported Date": 860,
+      "Cases Currently in Hospital": 22,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44554.791666666664,
+      "Daily Cases by Reported Date": 504,
+      "Cases Currently in Hospital": 22,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44555.791666666664,
+      "Daily Cases by Reported Date": 428,
+      "Cases Currently in Hospital": 25,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44556.791666666664,
+      "Daily Cases by Reported Date": 547,
+      "Cases Currently in Hospital": 29,
+      "Cases Currently in ICU": 2
+    },
+    {
+      "Date": 44557.791666666664,
+      "Daily Cases by Reported Date": 872,
+      "Cases Currently in Hospital": 35,
+      "Cases Currently in ICU": 1
+    },
+    {
+      "Date": 44558.791666666664,
+      "Daily Cases by Reported Date": 1240,
+      "Cases Currently in Hospital": 39,
+      "Cases Currently in ICU": 4
+    },
+    {
+      "Date": 44559.791666666664,
+      "Daily Cases by Reported Date": 1339,
+      "Cases Currently in Hospital": 45,
+      "Cases Currently in ICU": 5
+    },
+    {
+      "Date": 44560.791666666664,
+      "Daily Cases by Reported Date": 1339,
+      "Cases Currently in Hospital": 53,
+      "Cases Currently in ICU": 5
+    }
+  ]
+}
